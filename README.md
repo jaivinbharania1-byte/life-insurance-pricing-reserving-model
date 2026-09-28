@@ -1,2 +1,2 @@
-# life-insurance-pricing-reserving-model
-Excel model that prices and reserves a whole-of-life assurance product, and projects profit and profitability from Victorian life tables.
+# Life Insurance Pricing & Reserving Model (Excel)
+An Excel-based actuarial tool that prices and reserves a whole-of-life assurance product, then projects its profit and profitability over the full policy term.
